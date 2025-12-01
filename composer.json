@@ -1,0 +1,19 @@
+{
+    "name": "gitprofi/drinksmachine",
+    "description": "Library verbinden",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Gitprofi\\Drinksmachine\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Leon Reitenbach",
+            "email": "lreitenbach@schueler.hakzell.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
